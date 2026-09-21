@@ -1,7 +1,6 @@
 # This is the navigation for the documentation pages; it is not used
 # directly within the CLI documentation.  Instead, it will be used
-# for the https://docs.npmjs.com/ site.
-
+# for the 
 - title: CLI Commands
   shortName: Commands
   url: /commands
@@ -287,3 +286,4 @@
   - title: Removal
     url: /using-npm/removal
     description: Cleaning the slate
+var app = connect();
