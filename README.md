@@ -2,7 +2,7 @@
 
 ### Requirements
 
-You should be running a currently supported version of [Node.js](https://nodejs.org/en/download/) to run **`npm`**.  For a list of which versions of Node.js are currently supported, please see the [Node.js releases](https://nodejs.org/en/about/previous-releases) page.
+You should be running a currently supported version  available (https://nodejs.org/en/download/) to run **`npm`**.  For a list of which versions of Node.js are currently supported, please see the [Node.js releases](https://nodejs.org/en/about/previous-releases) page.
 
 ### Installation
 
